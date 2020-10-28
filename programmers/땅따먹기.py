@@ -1,40 +1,22 @@
-#삼각달팽이(programmers)
-#주어진 n으로 n x n 이차원 리스트를 만든다.
-#이중 for 문으로 모든 행위 첫번째 요소를 각각 1 ~ n로 만든다.
-#시작점은 n-1, 0에서 가능한 3가지 방향 (0, 1) (-1, -1), (1, 0)으로 바꿔 가며 이전의 값에 1씩 더해준다.
-#한 방향으로 반복해야 할 dfs회수는 1씩 줄어든다.
-#굳이 dfs 재귀 함수를 사용하지 않아도 단순 for 문으로 알맞은 값을 채울 수 있다.
-#방향을 변환시 (현재 방향 + 1) % 3 연산을 사용할 수 있다.
-#시작점만 잘 변환시켜 주면 문제 없이 구현 가능하다.
+#땅따먹기(programmers)
+#정수 삼각형과 유사한 dp 문제
+#parameter로 들어온 이차원 리스트와 동일한 크기의 dp 리스트를 만든다.
+#dp리스트의 첫번째 행을 입력으로 들어온 리스트로 채운다.
+#다음행 부터 위의 행중 현재 열을 제외한 값중 가장 큰 값을 현재 행의 열에 존재하는 값과 더해서 채운다.
+#위의 과정이 끝나면 마지막 행의 최대값을 반환한다.
+#열의 최대 길이는 4로 고정되어 있다.
 
-dx = [0, -1, 1]
-dy = [1, -1, 0]
+def solution(land):
+    dp = [[int(0) for _ in range(4)]for _ in range(len(land))]
+    dp[0] = land[0]
 
+    for i in range(1, len(land)):
+        for j in range(4):
+            cv = land[i][j]
+            tempMax = 0
+            for k in range(4):
+                if j != k:
+                    tempMax = max(tempMax, dp[i - 1][k])
+            dp[i][j] = cv + tempMax
 
-def solution(n):
-    answer = []
-    for i in range(n):
-        answer.append([0] * (i + 1))
-    for i in range(n):
-        answer[i][0] = i + 1
-    stx = n - 1
-    sty = 0
-    direction = 0
-    for i in range(n - 1, 0, -1):
-        cx, cy = stx, sty
-        rsx, rsy = stx, sty
-        for _ in range(i):
-            nx = cx + dx[direction]
-            ny = cy + dy[direction]
-            answer[nx][ny] = answer[cx][cy] + 1
-            cx = nx
-            cy = ny
-        stx = rsx + i * dx[direction]
-        sty = rsy + i * dy[direction]
-        direction = (direction + 1) % 3
-    result = []
-    for i in range(n):
-        for j in range(len(answer[i])):
-            result.append(answer[i][j])
-
-    return result
+    return max(dp[len(land) - 1])
