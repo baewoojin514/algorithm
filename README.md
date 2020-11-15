@@ -12,4 +12,4 @@
   - BOJ : 2110(solved)
 
 # 2020/11/10 (week - 3)
-  - BOJ : 16236(solved), 17070(solved), 2665, 14716(solved), 2638(solved), 17144, 2206, 13549(solved)
+  - BOJ : 16236(solved), 17070(solved), 2665, 14716(solved), 2638(solved), 17144, 2206, 13549(solved), 2178(solved by c++)
