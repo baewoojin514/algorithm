@@ -19,3 +19,4 @@
 
 # 2020/12/31 (week - 5)
   - BOJ : 2110(solved, c++), 2343(solved, c++), 3079, 17142(solved, c++), 17779, 3190(solved, c++), 1446, 13424
+  - algorithm skill : 플로이드 와샬 알고리즘
