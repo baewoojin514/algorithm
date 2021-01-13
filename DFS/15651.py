@@ -3,7 +3,7 @@
 #1부터 N까지의 수중 N개를 고르고 출력한다.
 #재귀 함수의 limit == M이면 각 수열을 출력한다.
 #skill.1 - 중복이 허용된다.
-#skill.2 - visited 리스트를
+#skill.2 - visited 리스트를 사용하지 않는다.
 
 def dfs(limit):
     if limit == M:
