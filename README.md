@@ -22,5 +22,5 @@
   - algorithm skill : 플로이드 와샬 알고리즘(11404)
 
 # 2020/1/9 (week - 6)
-  - BOJ : 15649(solved, c++), 15650(solved, c++), 15651(solved, c++), 15652, 15654, 15655, 15656, 15657, 15663, 15664
+  - BOJ : 15649(solved, c++), 15650(solved, c++), 15651(solved, c++), 15652(solved), 15654(solved), 15655, 15656, 15657, 15663, 15664
   - algorithm skill : dfs 재귀(series)
