@@ -21,6 +21,8 @@
   - BOJ : 2110(solved, c++), 2343(solved, c++), 3079, 17142(solved, c++), 17779, 3190(solved, c++), 1446, 13424(solved, c++)
   - algorithm skill : 플로이드 와샬 알고리즘(11404)
 
-# 2020/1/9 (week - 6)
+# 2021/1/9 (week - 6)
   - BOJ : 15649(solved, c++), 15650(solved, c++), 15651(solved, c++), 15652(solved, c++), 15654(solved, c++), 15655, 15656, 15657, 15663, 15664
   - algorithm skill : dfs 재귀(series)
+
+# 2021/1/20 (week - 7)
