@@ -28,7 +28,7 @@
   - algorithm skill : dfs 재귀(series)
 
 # 2021/1/26 (week - 7)
-  - BOJ : 15665(solved, c++), 15666(solved, c++), 2146(solved, c++), 1167, 9019, 1600(solved, c++), 2470, 2206(solved, c++), 17141(solved, c++)
+  - BOJ : 15665(solved, c++), 15666(solved, c++), 2146(solved, c++), 1167(solved, c++), 9019, 1600(solved, c++), 2470, 2206(solved, c++), 17141(solved, c++)
 
 # 2021/2/1 (week - 8)
   - BOJ : 10830, 19236, 20057, 17779, 14890
