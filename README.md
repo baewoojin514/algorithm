@@ -1,7 +1,9 @@
 # algorithm
 # 2020/10/25 (week - 1)
+~~~
   - BOJ : 1987(solved), 1197(solved), 1922(solved), 5014(solved)
   - programmers : 순위(solved), 땅따먹기(solved, resolved), 삼각 달팽이(solved), 네트워크(solved), 가장 큰 수, 다트 게임
+~~~
 
 # 2020/10/29 (week - 1)
   - programmers : 짝지어 제거하기(solved), 타겟 넘버(solved), 최대값과 최소값(solved)
