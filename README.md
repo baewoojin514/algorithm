@@ -1,7 +1,9 @@
 # algorithm
 # 2020/10/25 (week - 1)
+~~~
   - BOJ : 1987(solved), 1197(solved), 1922(solved), 5014(solved)
   - programmers : 순위(solved), 땅따먹기(solved, resolved), 삼각 달팽이(solved), 네트워크(solved), 가장 큰 수, 다트 게임
+~~~
 
 # 2020/10/29 (week - 1)
   - programmers : 짝지어 제거하기(solved), 타겟 넘버(solved), 최대값과 최소값(solved)
@@ -26,7 +28,7 @@
   - algorithm skill : dfs 재귀(series)
 
 # 2021/1/26 (week - 7)
-  - BOJ : 15665(solved, c++), 15666(solved, c++), 2146, 1167, 9019, 1600(solved, c++), 2470, 2206(solved, c++), 17141(solved, c++)
+  - BOJ : 15665(solved, c++), 15666(solved, c++), 2146(solved, c++), 1167, 9019, 1600(solved, c++), 2470, 2206(solved, c++), 17141(solved, c++)
 
 # 2021/2/1 (week - 8)
   - BOJ : 10830, 19236, 20057, 17779, 14890
