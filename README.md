@@ -2,7 +2,7 @@
 |언어|
 |---|
 |python3|
-|c++|
+|[c++](https://github.com/baewoojin514/algorithm/tree/master/c%2B%2B)|
 ## 목차
 1. [BFS](https://github.com/baewoojin514/algorithm/tree/master/BFS)
 2. [DFS](https://github.com/baewoojin514/algorithm/tree/master/DFS)
