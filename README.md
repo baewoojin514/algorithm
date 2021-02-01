@@ -19,7 +19,7 @@
 ## 2020/10/25 (week - 1)
 ~~~
   - BOJ : 1987(solved), 1197(solved), 1922(solved), 5014(solved)
-  - programmers : 순위(solved), 땅따먹기(solved, resolved), 삼각 달팽이(solved), 네트워크(solved), **가장 큰 수, **다트 게임
+  - programmers : 순위(solved), 땅따먹기(solved, resolved), 삼각 달팽이(solved), 네트워크(solved), **가장 큰 수**, **다트 게임**
 ~~~
 
 ## 2020/10/29 (week - 1)
@@ -41,7 +41,7 @@
   
 ## 2020/12/02 (week - 4)
 ~~~
-  - BOJ : 15684(solved, c++), **19236, **2448, 9663(c++), 1939(c++, solved), **1446, 1261(solved c++), 2644(solved, c++)
+  - BOJ : 15684(solved, c++), **19236**, **2448**, 9663(c++), 1939(c++, solved), **1446**, 1261(solved c++), 2644(solved, c++)
 ~~~
 
 ## 2020/12/31 (week - 5)
@@ -58,7 +58,7 @@
 
 ## 2021/1/26 (week - 7)
 ~~~
-  - BOJ : 15665(solved, c++), 15666(solved, c++), 2146(solved, c++), 1167(solved, c++), **9019, 1600(solved, c++), **2470, 2206(solved, c++), 17141(solved, c++)
+  - BOJ : 15665(solved, c++), 15666(solved, c++), 2146(solved, c++), 1167(solved, c++), **9019**, 1600(solved, c++), **2470**, 2206(solved, c++), 17141(solved, c++)
 ~~~
 
 ## 2021/2/1 (week - 8)
