@@ -120,19 +120,7 @@ priority_queue<pair<int, int>> pq;
 
 int dis[MAX];
 
-int main(void){
-    
-    cin >> N >> M;
-    cin >> start;
-    
-    for (int i = 0; i < M; i++) {
-        int a, b, c;
-        cin >> a >> b >> c;
-        graph[a].push_back({b, c});
-    }
-    fill(dis, dis + 100001, INF);
-    //distance 배열을 무한으로 초기화한다.
-    
+void dijkstra(int start){
     pq.push({0, start});
     dis[start] = 0;
     while (!pq.empty()) {
@@ -155,7 +143,22 @@ int main(void){
             }
         }
     }
+}
+
+int main(void){
     
+    cin >> N >> M;
+    cin >> start;
+    
+    for (int i = 0; i < M; i++) {
+        int a, b, c;
+        cin >> a >> b >> c;
+        graph[a].push_back({b, c});
+    }
+    fill(dis, dis + 100001, INF);
+    //distance 배열을 무한으로 초기화한다.
+    dijkstra(start);
+
     for (int i = 1; i <= N; i++) {
         if (dis[i] ==  INF) {
             cout << "INFINITY" << '\n';
