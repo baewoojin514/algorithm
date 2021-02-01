@@ -4,7 +4,9 @@
 |python3|
 |c++|
 ## 목차
-[1.BFS](https://github.com/baewoojin514/algorithm/tree/master/BFS)
+1. [BFS](https://github.com/baewoojin514/algorithm/tree/master/BFS)
+2. [DFS](https://github.com/baewoojin514/algorithm/tree/master/DFS)
+3. [BinarySearch](https://github.com/baewoojin514/algorithm/tree/master/Binary-Search)
 
 ## 2020/10/25 (week - 1)
 ~~~
