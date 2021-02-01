@@ -19,7 +19,7 @@
 ## 2020/10/25 (week - 1)
 ~~~
   - BOJ : 1987(solved), 1197(solved), 1922(solved), 5014(solved)
-  - programmers : 순위(solved), 땅따먹기(solved, resolved), 삼각 달팽이(solved), 네트워크(solved), 가장 큰 수, 다트 게임
+  - programmers : 순위(solved), 땅따먹기(solved, resolved), 삼각 달팽이(solved), 네트워크(solved), **가장 큰 수, **다트 게임
 ~~~
 
 ## 2020/10/29 (week - 1)
@@ -41,12 +41,12 @@
   
 ## 2020/12/02 (week - 4)
 ~~~
-  - BOJ : 15684(solved, c++), 19236, 2448, 9663(c++), 1939(c++, solved), 1446, 1261(solved c++), 2644(solved, c++)
+  - BOJ : 15684(solved, c++), **19236, **2448, 9663(c++), 1939(c++, solved), **1446, 1261(solved c++), 2644(solved, c++)
 ~~~
 
 ## 2020/12/31 (week - 5)
 ~~~
-  - BOJ : 2110(solved, c++), 2343(solved, c++), 17142(solved, c++), 17779, 3190(solved, c++), 13424(solved, c++)
+  - BOJ : 2110(solved, c++), 2343(solved, c++), 17142(solved, c++), **17779, 3190(solved, c++), 13424(solved, c++)
   - algorithm skill : 플로이드 와샬 알고리즘(11404)
 ~~~
 
@@ -58,12 +58,12 @@
 
 ## 2021/1/26 (week - 7)
 ~~~
-  - BOJ : 15665(solved, c++), 15666(solved, c++), 2146(solved, c++), 1167(solved, c++), 9019, 1600(solved, c++), 2470, 2206(solved, c++), 17141(solved, c++)
+  - BOJ : 15665(solved, c++), 15666(solved, c++), 2146(solved, c++), 1167(solved, c++), **9019, 1600(solved, c++), **2470, 2206(solved, c++), 17141(solved, c++)
 ~~~
 
 ## 2021/2/1 (week - 8)
 ~~~
-  - BOJ : 10830, 19236, 20057, 17779, 14890, 1922(solved, c++), 1197(solved, c++), 17472
+  - BOJ : 10830, 19236, 20057, 17779, 14890, 1922(solved, c++), 1197(solved, c++), 17472, 10282
   - programmers : 점프와 순간이동, 구명보트, 위장
   - algorithm skill : 최소 스패닝 트리(MST)
 ~~~
