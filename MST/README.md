@@ -41,3 +41,19 @@ void union_find(int a, int b){
     return;
 }
 ~~~
+
+- python code
+~~~
+def find_parent(parent, X):
+    if parent[X] != X:
+        parent[X] = find_parent(parent, parent[X])
+    return parent[X]
+
+def union_parent(parent, a, b):
+    a = find_parent(parent, a)
+    b = find_parent(parent, b)
+    if a > b:
+        parent[a] = b
+    else:
+        parent[b] = a
+~~~
