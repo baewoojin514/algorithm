@@ -1,2 +1,6 @@
-# 다익스트라
+# 다익스트라(Dijkstra)
+
+|algorithm|
+|---|
+|dijkstra|
 
