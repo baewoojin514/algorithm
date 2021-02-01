@@ -92,5 +92,80 @@ for i in range(1, n + 1):
     else:
         print(distance[i])
 ~~~
- 
+
+## c++ code
+~~~
+//다익스트라 알고리즘
+//시작점이 설정된 경우 사용하기 좋은 알고리즘이다.
+//우선순위 큐를 사용해서 구현하면 시간 복잡도 면에서 매우 효율적이다.
+//노드의 개수는 최대 100,000개라고 가정한다.
+
+#include <iostream>
+#include <algorithm>
+#include <cstdio>
+#include <vector>
+#include <cstring>
+#include <queue>
+
+#define MAX 100001
+#define INF 1e9
+//무한을 의미하는 값으로 10억을 설정한다.
+
+using namespace std;
+
+vector<pair<int, int>> graph[MAX];
+int N, M;
+int start;
+priority_queue<pair<int, int>> pq;
+
+int dis[MAX];
+
+int main(void){
+    
+    cin >> N >> M;
+    cin >> start;
+    
+    for (int i = 0; i < M; i++) {
+        int a, b, c;
+        cin >> a >> b >> c;
+        graph[a].push_back({b, c});
+    }
+    fill(dis, dis + 100001, INF);
+    //distance 배열을 무한으로 초기화한다.
+    
+    pq.push({0, start});
+    dis[start] = 0;
+    while (!pq.empty()) {
+        int dist, cx;
+        dist = -pq.top().first;
+        cx = pq.top().second;
+        
+        pq.pop();
+        
+        if (dis[cx] < dist) {
+            continue;
+        }
+        //현재 노드가 이미 최단경로로 갱신되어 있다면 넘어간다.
+        for (int i = 0; i < graph[cx].size(); i++) {
+            int cost = dist + graph[cx][i].second;
+            if (cost < dis[graph[cx][i].first]) {
+                //현재 노드를 거쳐 다른 노드로 이동하는 거리가 더 짧은 경우 최단 경로로 갱신하고 우선순위 큐에 삽입한다.
+                dis[graph[cx][i].first] = cost;
+                pq.push(make_pair(-cost, graph[cx][i].first));
+            }
+        }
+    }
+    
+    for (int i = 1; i <= N; i++) {
+        if (dis[i] ==  INF) {
+            cout << "INFINITY" << '\n';
+        }
+        else{
+            cout << dis[i] << '\n';
+        }
+    }
+    
+    return 0;
+}
+~~~
 
