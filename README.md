@@ -1,4 +1,8 @@
 # algorithm
+|언어|
+|---|
+|python3|
+|c++|
 ## 2020/10/25 (week - 1)
 ~~~
   - BOJ : 1987(solved), 1197(solved), 1922(solved), 5014(solved)
