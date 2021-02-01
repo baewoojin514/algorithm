@@ -45,7 +45,7 @@
 
 ## python code
 
-'''
+```
 import heapq
 
 INF = int(1e9)
@@ -85,7 +85,7 @@ for i in range(1, n + 1):
         print("can't go")
     else:
         print(distance[i])
-'''
+```
 
 ## c++ code
 '''
