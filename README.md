@@ -40,13 +40,13 @@
 ~~~
   
 ## 2020/12/02 (week - 4)
-
-  - BOJ : 15684(solved, c++), `19236`, **2448**, 9663(c++), 1939(c++, solved), **1446**, 1261(solved c++), 2644(solved, c++)
-
+~~~
+  - BOJ : 15684(solved, c++), 19236, 2448, 9663(c++), 1939(c++, solved), **1446**, 1261(solved c++), 2644(solved, c++)
+~~~
 
 ## 2020/12/31 (week - 5)
 ~~~
-  - BOJ : 2110(solved, c++), 2343(solved, c++), 17142(solved, c++), **17779, 3190(solved, c++), 13424(solved, c++)
+  - BOJ : 2110(solved, c++), 2343(solved, c++), 17142(solved, c++), 17779, 3190(solved, c++), 13424(solved, c++)
   - algorithm skill : 플로이드 와샬 알고리즘(11404)
 ~~~
 
@@ -58,7 +58,7 @@
 
 ## 2021/1/26 (week - 7)
 ~~~
-  - BOJ : 15665(solved, c++), 15666(solved, c++), 2146(solved, c++), 1167(solved, c++), **9019**, 1600(solved, c++), **2470**, 2206(solved, c++), 17141(solved, c++)
+  - BOJ : 15665(solved, c++), 15666(solved, c++), 2146(solved, c++), 1167(solved, c++), 9019, 1600(solved, c++), 2470, 2206(solved, c++), 17141(solved, c++)
 ~~~
 
 ## 2021/2/1 (week - 8)
