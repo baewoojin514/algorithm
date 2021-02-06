@@ -63,7 +63,12 @@
 
 ## 2021/2/1 (week - 8)
 ~~~
-  - BOJ : 10830, 19236, 20057, 17779, 14890, 1922(solved, c++), 1197(solved, c++), 17472(solved, c++), 10282(solved, c++)
-  - programmers : 점프와 순간이동, 구명보트, 위장
+  - BOJ : 1922(solved, c++), 1197(solved, c++), 17472(solved, c++), 10282(solved, c++)
   - algorithm skill : 최소 스패닝 트리(MST)
+~~~
+
+## 2021/2/6 (week - 9)
+~~~
+  - BOJ : 10830, 19236, 20057, 17779, 14890
+  - programmers : 점프와 순간이동, 구명보트, 위장, 
 ~~~
