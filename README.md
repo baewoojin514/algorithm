@@ -77,4 +77,4 @@
 ## 2021/2/7
 ~~~
   - BOJ : 11779, 1238, 14938, 1463, 2579, 11053, 1915(solved, c++)
-  - programmers : 가장 큰 정사각형, 최솟값 만들기, H-Index
+  - programmers : 가장 큰 정사각형 찾기(c++, solved), 최솟값 만들기, H-Index
