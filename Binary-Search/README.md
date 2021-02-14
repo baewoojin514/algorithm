@@ -45,3 +45,26 @@ else{
 숫자가 삽입되어야 할 위치가 vector의 중간이라면 해당 위치의 요소를 바꿔준다.
 
 ~~~
+
+#### python code
+
+```c
+for i in info:
+    idx = bisect.bisect_left(num, i)
+
+    if idx == len(num):
+        num.append(i)
+    else:
+        num[idx] = i
+}
+```
+~~~
+if idx == len(num):
+    num.append(i)
+숫자가 삽입되어야 할 위치가 list의 후방이라면 append을 통해 삽입한다.
+
+else:
+    num[idx] = i
+숫자가 삽입되어야 할 위치가 list의 중간이라면 해당 위치의 요소를 바꿔준다.
+
+~~~
