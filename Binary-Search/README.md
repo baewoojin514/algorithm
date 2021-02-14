@@ -1,1 +1,5 @@
 # Binary-Search
+
+|algorithm|
+|---|
+|LIS|
