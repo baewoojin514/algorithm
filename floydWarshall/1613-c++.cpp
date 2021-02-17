@@ -57,3 +57,53 @@ int main(void){
     }
     return 0;
 }
+//역사(1613)
+//플로이드 워셜 알고리즘을 사용해서 해결할 수 있다.
+//역사의 전후 관계를 최단 경로의 시작, 도착 지점으로 치환할 수 있다.
+//skill.1 - 주어진 역사 전후관계에 대해서 플로이드 워셜 알고리즘을 적용한다.
+//skill.2 - s개의 전후관계에 대해서 순서에 따라 1, -1을 출력하고, INF일 경우 0을 출력한다.
+//10000개 이상의 입력이 들어올 경우 cin, cout으로 처리하기에는 무리가 있다. c언어 표준 입출력 함수를 사용해야 한다.
+
+#include <iostream>
+#include <algorithm>
+#include <stdio.h>
+#define MAX 401
+
+using namespace std;
+
+int n, k;
+int s;
+int graph[MAX][MAX];
+
+int main(void){
+    scanf("%d %d", &n, &k);
+    for (int i = 0; i < k; i++) {
+        int a, b;
+        scanf("%d %d", &a, &b);
+        graph[a][b] = 1;
+    }
+    for (int k = 1; k < n + 1; k++) {
+        for (int i = 1; i < n + 1; i++) {
+            for (int j = 1; j < n + 1; j++) {
+                if (graph[i][k] == 1 && graph[k][j] == 1) {
+                    graph[i][j] = 1;
+                }
+            }
+        }
+    }
+    cin >> s;
+    for (int i = 0; i < s; i++) {
+        int a, b;
+        scanf("%d %d", &a, &b);
+        if (graph[a][b] == 1) {
+            printf("%d\n", -graph[a][b]);
+        }
+        else if (graph[b][a] == 1){
+            printf("%d\n", graph[b][a]);
+        }
+        else{
+            printf("%d\n", graph[a][b]);
+        }
+    }
+    return 0;
+}
