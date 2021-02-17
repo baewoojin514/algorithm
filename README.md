@@ -75,7 +75,7 @@
 
 ## 2021/2/7
 ~~~
-  - BOJ : 1238, 14938, 1463, 11053(solved, c++), 1915(solved, c++), 2352(solved, c++)
+  - BOJ : 1238(c++), 14938, 1463, 11053(solved, c++), 1915(solved, c++), 2352(solved, c++)
   - programmers : 가장 큰 정사각형 찾기(c++, solved), H-Index
 ~~~
 
