@@ -12,3 +12,66 @@
 ~~~
 
 ## c++ code
+
+```c
+//플로이드 워셜 알고리즘
+//모든 지점에서 다른 모든 지점으로 가는 최단 경로를 계산하는 경우 유용하다.
+
+#include <iostream>
+#include <algorithm>
+#include <cstdio>
+#include <cstring>
+#define MAX 501
+#define INF 1e9
+//무한을 의미하는 값으로 10억을 설정한다.
+
+using namespace std;
+
+int N, M;
+int graph[MAX][MAX];
+
+int main(void){
+    cin >> N;
+    cin >> M;
+    
+    for (int i = 0; i < 501; i++) {
+        fill(graph[i], graph[i] + 501, INF);
+    }
+    //최단 경로 2차원 배열을 INF로 초기화한다.
+    
+    for (int i = 1; i < N + 1; i++) {
+        for (int j = 1; j < N + 1; j++) {
+            if (i == j) {
+                graph[i][j] = 0;
+            }
+        }
+    }
+    //자기 자신에서 자기 자신으로 가는 경로를 0으로 초기화한다.
+
+    for (int i = 0; i < M; i++) {
+        int a, b, c;
+        cin >> a >> b >> c;
+        graph[a][b] = c;
+    }
+    for (int k = 1; k < N + 1; k++) {
+        for (int i = 1; i < N + 1; i++) {
+            for (int j = 1; j < N + 1; j++) {
+                graph[i][j] = min(graph[i][j], graph[i][k] + graph[k][j]);
+            }
+        }
+    }
+    //최단 경로 2차원 배열을 최소값으로 갱신한다.
+    for (int i = 1; i < N + 1; i++) {
+        for (int j = 1; j < N + 1; j++) {
+            if (graph[i][j] == INF) {
+                cout << "INFINITY" << " ";
+            }
+            else{
+                cout << graph[i][j] << " ";
+            }
+        }
+        cout << "\n";
+    }
+    return 0;
+}
+```
