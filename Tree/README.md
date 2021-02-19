@@ -18,4 +18,4 @@
   3. 사이클이 존재하지 않는 하나의 연결 그래프(connected graph)이다.
 
 ## 트리 용어
-![Uploading 스크린샷 2021-02-19 오후 12.10.35.png…]()
+<img width="810" alt="스크린샷 2021-02-19 오후 12 10 35" src="https://user-images.githubusercontent.com/48473015/108452244-874ee200-72ab-11eb-9d2c-08c7aae82cd0.png">
