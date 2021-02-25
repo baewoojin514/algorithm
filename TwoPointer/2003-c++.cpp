@@ -7,7 +7,7 @@
 #include <algorithm>
 #include <stdio.h>
 #include <cstring>
-#define MAX 10000
+#define MAX 10001
 
 using namespace std;
 
@@ -23,22 +23,26 @@ int main(void){
     }
     int stx = 0;
     int edx = 0;
-    int sum = 0;
+    int sum = num[0];
     
     while (edx <= N) {
-        if (sum >= M) {
+        if (sum == M) {
+            //sum 이 M 과 같다면 result += 1을 한다.
+            result += 1;
+            edx += 1;
+            sum += num[edx];
+            sum -= num[stx];
+            stx += 1;
+        }
+        else if (sum > M) {
             //sum이 M 이상이면 범위를 좁혀야 할 필요가 있다 따라서 start를 증가시킨다.
             sum -= num[stx];
             stx += 1;
         }
         else if (sum < M){
             //sum이 M 미만이면 범위를 넓혀야 할 필요가 있다. 따라서 end를 증가시킨다.
-            sum += num[edx];
             edx += 1;
-        }
-        if (sum == M) {
-            //sum 이 M 과 같다면 result += 1을 한다.
-            result += 1;
+            sum += num[edx];
         }
     }
     cout << result;
