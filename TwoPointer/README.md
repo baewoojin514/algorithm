@@ -48,4 +48,16 @@ while (edx <= N) {
     }
 ```
 
+### python code
+
+```c
+for stx in range(N):
+    while partSum < M and edx < N:
+        partSum += num[edx]
+        edx += 1
+    if partSum == M:
+        result += 1
+    partSum -= num[stx]
+```
+
 
