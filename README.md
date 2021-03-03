@@ -95,5 +95,5 @@
 ## 2021/3/2 (week - 13)
 ~~~
   - BOJ : 2579, 11779, 10830, 19236, 20057, 14890
-  - programmers : 소수 찾기, 배달, 합승 택시 요금(solved), 배달(solved)
+  - programmers : 소수 찾기, 합승 택시 요금(solved), 배달(solved), 자동완성(solved)
 ~~~
