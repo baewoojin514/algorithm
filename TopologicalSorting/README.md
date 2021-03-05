@@ -24,3 +24,39 @@
  1. 모든 노드를 방문하기 전에 queue가 empty하다면 cycle이 존재하는 것이다.
  2. queue에 두개 이상의 노드가 담기면 즉 한번에 indegree가 0인 노드가 여러개 발생하면 위상정렬의 결과가 애매해진다.
  ~~~ 
+ 
+ ### python code
+ 
+ ```c
+ import collections
+
+N, M = map(int, input().split())
+
+indegree = [0] * (N + 1)
+
+graph = [[] for i in range(N + 1)]
+for i in range(M):
+    a, b = map(int, input().split())
+    graph[a].append(b)
+    indegree[b] += 1
+
+
+result = []
+q = collections.deque()
+
+for i in range(1, N + 1):
+    if indegree[i] == 0:
+        q.append(i)
+while q:
+    now = q.popleft()
+    result.append(now)
+
+    for j in graph[now]:
+        indegree[j] -= 1
+        if indegree[j] == 0:
+            q.append(j)
+
+for i in result:
+    print(i, end=' ')
+```
+
