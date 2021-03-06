@@ -5,6 +5,8 @@
 |[14567](https://www.acmicpc.net/problem/14567)|o/o|
 |[2252](https://www.acmicpc.net/problem/2252)|v/v|
 |[1766](https://www.acmicpc.net/problem/1766)|o/o|
+|[1005](https://www.acmicpc.net/problem/1005)|v/v|
+|[2623](https://www.acmicpc.net/problem/2623)|v/v|
 
 ## 위상정렬
 
