@@ -60,3 +60,20 @@ for i in result:
     print(i, end=' ')
 ```
 
+### c++ code
+
+```c
+while (!q.empty()) {
+    int cx;
+    cx = q.front();
+        
+    q.pop_front();
+        
+    for (int i = 0; i < graph[cx].size(); i++) {
+        indegree[graph[cx][i]] -= 1;
+        if (indegree[graph[cx][i]] == 0) {
+            q.push_back(graph[cx][i]);
+        }
+    }
+}
+```
