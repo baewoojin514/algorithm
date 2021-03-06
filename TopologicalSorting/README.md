@@ -1,10 +1,10 @@
 # 위상정렬(Topological Sorting)
 
-|problem|solved|
+|problem|solved(python/c++)|
 |---|---|
-|[14567](https://www.acmicpc.net/problem/14567)|o|
-|[2252](https://www.acmicpc.net/problem/2252)|v|
-|[1766](https://www.acmicpc.net/problem/1766)|v|
+|[14567](https://www.acmicpc.net/problem/14567)|o/o|
+|[2252](https://www.acmicpc.net/problem/2252)|v/v|
+|[1766](https://www.acmicpc.net/problem/1766)|v/v|
 
 ## 위상정렬
 
