@@ -4,6 +4,13 @@
 |---|
 |kruskal|
 
+|problem|solved(python/c++)|
+|---|---|
+|[1368](https://www.acmicpc.net/problem/1368)|v/v|
+|[6398](https://www.acmicpc.net/problem/16398)|v/v|
+|[14621](https://www.acmicpc.net/problem/14621)|v/v|
+
+
 ## 신장트리(spanning tree)
 - 신장 트리란 하나의 그래프가 있을 때 모든 노드를 포함하면서 사이클이 존재하지 않는 부분 그래프를 의미한다.
 
