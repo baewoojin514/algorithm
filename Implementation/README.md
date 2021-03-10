@@ -7,4 +7,4 @@
 |[14891](https://www.acmicpc.net/problem/14891)|v/o|
 |[17779](https://www.acmicpc.net/problem/17779)|v/v|
 |[19236](https://www.acmicpc.net/problem/19236)|v/o|
-|[20057](https://www.acmicpc.net/problem/20057)|v/v|
+|[20057](https://www.acmicpc.net/problem/20057)|v/o|
