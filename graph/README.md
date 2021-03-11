@@ -3,7 +3,11 @@
 |algorithm|
 |---|
 |[MST](https://github.com/baewoojin514/algorithm/tree/master/MST)|
-|topology sort|
+|[topology sort](https://github.com/baewoojin514/algorithm/tree/master/MST)|
+
+|problem|solved(python/c++)|
+|---|---|
+|[14442](https://www.acmicpc.net/problem/14442)|v/v|
 
 ## 위상정렬(Topology sort)
 
