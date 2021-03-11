@@ -9,6 +9,7 @@
 |---|---|
 |[14442](https://www.acmicpc.net/problem/14442)|v/v|
 |[10711](https://www.acmicpc.net/problem/10711)|v/v|
+|[17616](https://www.acmicpc.net/problem/17616)|v/v|
 
 ## 위상정렬(Topology sort)
 
