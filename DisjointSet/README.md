@@ -3,7 +3,7 @@
 |problem|solved(python/c++)|
 |---|---|
 |[1717](https://www.acmicpc.net/problem/1717)|v/o|
-|[6398](https://www.acmicpc.net/problem/1976)|v/v|
+|[1976](https://www.acmicpc.net/problem/1976)|v/o|
 |[16562](https://www.acmicpc.net/problem/16562)|v/v|
 |[4195](https://www.acmicpc.net/problem/4195)|v/v|
 |[16562](https://www.acmicpc.net/problem/16562)|v/v|
@@ -12,3 +12,4 @@
 |[1043](https://www.acmicpc.net/problem/1043)|v/v|
 |[11085](https://www.acmicpc.net/problem/11085)|v/v|
 |[17398](https://www.acmicpc.net/problem/17398)|v/v|
+|[6398](https://www.acmicpc.net/problem/6398)|v/v|
