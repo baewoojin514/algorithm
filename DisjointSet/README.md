@@ -12,4 +12,3 @@
 |[1043](https://www.acmicpc.net/problem/1043)|v/v|
 |[11085](https://www.acmicpc.net/problem/11085)|v/v|
 |[17398](https://www.acmicpc.net/problem/17398)|v/v|
-|[6398](https://www.acmicpc.net/problem/6398)|v/v|
