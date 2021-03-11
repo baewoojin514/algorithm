@@ -18,6 +18,7 @@
 12. [TwoPointer](https://github.com/baewoojin514/algorithm/tree/master/TwoPointer)
 13. [Programmers](https://github.com/baewoojin514/algorithm/tree/master/programmers)
 14. [TopologicalSorting(위상정렬)](https://github.com/baewoojin514/algorithm/tree/master/TopologicalSorting)
+15. [DisjointSet(분리집합)](https://github.com/baewoojin514/algorithm/tree/master/DisjointSet)
 
 ## 2020/10/25 (week - 1)
 ~~~
