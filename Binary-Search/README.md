@@ -4,6 +4,14 @@
 |---|
 |LIS|
 
+|problem|solved(python/c++)|
+|---|---|
+|[13397](https://www.acmicpc.net/problem/13397)|v/v|
+|[1654](https://www.acmicpc.net/problem/1654)|v/v|
+|[2470](https://www.acmicpc.net/problem/2470)|v/v|
+|[1300](https://www.acmicpc.net/problem/1300)|v/v|
+
+
 ### algorithm.1 - LIS(최장 증가 부분 수열 : Longest Increasing Subsequence)
 
 - 원소가 n개인 배열의 일부 원소를 골라내서 만든 부분 수열 중, 각 원소가 이전 원소보다 크다는 조건을 만족하고, 그 길이가 최대인 부분 수열을 최장 증가 부분 수열이라고 한다.
