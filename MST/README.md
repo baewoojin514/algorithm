@@ -7,7 +7,7 @@
 |problem|solved(python/c++)|
 |---|---|
 |[1368](https://www.acmicpc.net/problem/1368)|v/o|
-|[6398](https://www.acmicpc.net/problem/16398)|v/v|
+|[16398](https://www.acmicpc.net/problem/16398)|v/o|
 |[14621](https://www.acmicpc.net/problem/14621)|v/v|
 
 
