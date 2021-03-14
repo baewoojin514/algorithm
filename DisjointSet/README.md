@@ -9,5 +9,5 @@
 |[10775](https://www.acmicpc.net/problem/10775)|v/o|
 |[20040](https://www.acmicpc.net/problem/20040)|v/o|
 |[1043](https://www.acmicpc.net/problem/1043)|v/o|
-|[11085](https://www.acmicpc.net/problem/11085)|v/v|
+|[11085](https://www.acmicpc.net/problem/11085)|v/o|
 |[17398](https://www.acmicpc.net/problem/17398)|v/v|
