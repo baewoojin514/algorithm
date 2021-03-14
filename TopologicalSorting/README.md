@@ -8,7 +8,7 @@
 |[1005](https://www.acmicpc.net/problem/1005)|o/o|
 |[2623](https://www.acmicpc.net/problem/2623)|v/o|
 |[2056](https://www.acmicpc.net/problem/2056)|o/v|
-|[1516](https://www.acmicpc.net/problem/1516)|v/v|
+|[1516](https://www.acmicpc.net/problem/1516)|v/o|
 |[2637](https://www.acmicpc.net/problem/2637)|v/v|
 |[20119](https://www.acmicpc.net/problem/20119)|v/v|
 
