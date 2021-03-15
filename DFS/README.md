@@ -8,5 +8,5 @@
 |[6443](https://www.acmicpc.net/problem/6443)|v/o|
 |[14391](https://www.acmicpc.net/problem/14391)|v/o|
 |[1799](https://www.acmicpc.net/problem/1799)|v/o|
-|[16938](https://www.acmicpc.net/problem/16938)|v/v|
+|[16938](https://www.acmicpc.net/problem/16938)|v/o|
 |[9944](https://www.acmicpc.net/problem/9944)|v/v|
