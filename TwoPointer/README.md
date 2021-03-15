@@ -6,7 +6,7 @@
 |[2003](https://www.acmicpc.net/problem/2003)|o/o|
 |[1644](https://www.acmicpc.net/problem/1644)|v/v|
 |[2470](https://www.acmicpc.net/problem/2470)|v/o|
-|[2473](https://www.acmicpc.net/problem/2473)|v/v|
+|[2473](https://www.acmicpc.net/problem/2473)|v/o|
 
 
 - 투 포인터는 1차원 배열에서 두 개의 포인터를 조작해서 원하는 결과를 얻는 알고리즘이다.
