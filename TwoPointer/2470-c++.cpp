@@ -1,4 +1,5 @@
 //두 용액(2470)
+//two pointer로 해결할 수 있다.
 
 #include <algorithm>
 #include <cstring>
