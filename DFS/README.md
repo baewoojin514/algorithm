@@ -7,6 +7,6 @@
 |[2580](https://www.acmicpc.net/problem/2580)|v/v|
 |[6443](https://www.acmicpc.net/problem/6443)|v/o|
 |[14391](https://www.acmicpc.net/problem/14391)|v/o|
-|[1799](https://www.acmicpc.net/problem/1799)|v/v|
+|[1799](https://www.acmicpc.net/problem/1799)|v/o|
 |[16938](https://www.acmicpc.net/problem/16938)|v/v|
 |[9944](https://www.acmicpc.net/problem/9944)|v/v|
