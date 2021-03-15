@@ -7,6 +7,8 @@
 |problem|solved(python/c++)|
 |---|---|
 |[13911](https://www.acmicpc.net/problem/13911)|v/o|
+|[1719](https://www.acmicpc.net/problem/1719)|v/v|
+|[11779](https://www.acmicpc.net/problem/11779)|v/v|
 
 ## 다익스트라 최단 경로 알고리즘
 
