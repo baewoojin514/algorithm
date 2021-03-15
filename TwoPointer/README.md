@@ -5,7 +5,7 @@
 |[1806](https://www.acmicpc.net/problem/1806)|o/o|
 |[2003](https://www.acmicpc.net/problem/2003)|o/o|
 |[1644](https://www.acmicpc.net/problem/1644)|v/v|
-|[2470](https://www.acmicpc.net/problem/2470)|v/v|
+|[2470](https://www.acmicpc.net/problem/2470)|v/o|
 |[2473](https://www.acmicpc.net/problem/2473)|v/v|
 
 
