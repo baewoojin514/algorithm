@@ -8,7 +8,7 @@
 |---|---|
 |[1368](https://www.acmicpc.net/problem/1368)|v/o|
 |[16398](https://www.acmicpc.net/problem/16398)|v/o|
-|[14621](https://www.acmicpc.net/problem/14621)|v/v|
+|[14621](https://www.acmicpc.net/problem/14621)|v/o|
 
 
 ## 신장트리(spanning tree)
