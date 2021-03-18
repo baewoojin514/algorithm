@@ -10,7 +10,7 @@
 |[16398](https://www.acmicpc.net/problem/16398)|v/o|
 |[14621](https://www.acmicpc.net/problem/14621)|v/o|
 |[4386](https://www.acmicpc.net/problem/4386)|v/o|
-|[13905](https://www.acmicpc.net/problem/13905)|v/v|
+|[13905](https://www.acmicpc.net/problem/13905)|v/o|
 |[13418](https://www.acmicpc.net/problem/13418)|v/v|
 |[17490](https://www.acmicpc.net/problem/17490)|v/v|
 |[2406](https://www.acmicpc.net/problem/2406)|v/v|
