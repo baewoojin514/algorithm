@@ -2,6 +2,7 @@
 
 |problem|solved(python/c++)|
 |---|---|
+|[2026](https://www.acmicpc.net/problem/2026)|v/v|
 |[3980](https://www.acmicpc.net/problem/3980)|v/o|
 |[17136](https://www.acmicpc.net/problem/17136)|v/o|
 |[2580](https://www.acmicpc.net/problem/2580)|v/v|
