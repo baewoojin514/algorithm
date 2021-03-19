@@ -12,7 +12,7 @@
 |[4386](https://www.acmicpc.net/problem/4386)|v/o|
 |[13905](https://www.acmicpc.net/problem/13905)|v/o|
 |[13418](https://www.acmicpc.net/problem/13418)|v/o|
-|[17490](https://www.acmicpc.net/problem/17490)|v/v|
+|[17490](https://www.acmicpc.net/problem/17490)|v/o|
 |[2406](https://www.acmicpc.net/problem/2406)|v/v|
 
 ## 신장트리(spanning tree)
