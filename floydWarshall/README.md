@@ -5,7 +5,7 @@
 |[2610](https://www.acmicpc.net/problem/2610)|v/v|
 |[1507](https://www.acmicpc.net/problem/1507)|v/v|
 |[1956](https://www.acmicpc.net/problem/1956)|v/o|
-|[10159](https://www.acmicpc.net/problem/10159)|v/v|
+|[10159](https://www.acmicpc.net/problem/10159)|v/o|
 
 - 다익스트라 알고리즘은 '한 지점에서 다른 특정 지점까지의 최단 경로'를 구하는 알고리즘이다.
 - 플로이드 워셜 알고리즘은 '모든 지점에서 다른 모든 지점까지의 최단 경로'를 구하는 알고리즘이다.
