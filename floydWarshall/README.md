@@ -4,7 +4,7 @@
 |---|---|
 |[2610](https://www.acmicpc.net/problem/2610)|v/v|
 |[1507](https://www.acmicpc.net/problem/1507)|v/v|
-|[1956](https://www.acmicpc.net/problem/1956)|v/v|
+|[1956](https://www.acmicpc.net/problem/1956)|v/o|
 |[10159](https://www.acmicpc.net/problem/10159)|v/v|
 
 - 다익스트라 알고리즘은 '한 지점에서 다른 특정 지점까지의 최단 경로'를 구하는 알고리즘이다.
