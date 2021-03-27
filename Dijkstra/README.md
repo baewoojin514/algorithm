@@ -10,7 +10,7 @@
 |[1719](https://www.acmicpc.net/problem/1719)|v/v|
 |[11779](https://www.acmicpc.net/problem/11779)|v/o|
 |[11909](https://www.acmicpc.net/problem/11909)|v/o|
-|[2982](https://www.acmicpc.net/problem/2982)|v/v|
+|[2982](https://www.acmicpc.net/problem/2982)|v/o|
 
 ## 다익스트라 최단 경로 알고리즘
 
