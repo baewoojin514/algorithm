@@ -10,6 +10,7 @@
 |[1654](https://www.acmicpc.net/problem/1654)|v/v|
 |[2470](https://www.acmicpc.net/problem/2470)|v/v|
 |[1300](https://www.acmicpc.net/problem/1300)|v/v|
+|[8983](https://www.acmicpc.net/problem/8983)|v/v|
 
 
 ### algorithm.1 - LIS(최장 증가 부분 수열 : Longest Increasing Subsequence)
