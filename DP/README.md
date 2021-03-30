@@ -22,7 +22,7 @@
 |[14226](https://www.acmicpc.net/problem/14226)|v/v|
 |[5582](https://www.acmicpc.net/problem/5582)|v/v|
 |[2229](https://www.acmicpc.net/problem/2229)|v/v|
-|[14925](https://www.acmicpc.net/problem/14925)|v/v|
+|[14925](https://www.acmicpc.net/problem/14925)|v/o|
 
 ## 동적 계획법
 
