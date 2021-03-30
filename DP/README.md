@@ -4,6 +4,26 @@
 |---|
 |LIS|
 
+|problem|solved(python/c++)|
+|---|---|
+|[4095](https://www.acmicpc.net/problem/4095)|v/v|
+|[9251](https://www.acmicpc.net/problem/9251)|v/v|
+|[5557](https://www.acmicpc.net/problem/5557)|v/v|
+|[2631](https://www.acmicpc.net/problem/2631)|v/v|
+|[2228](https://www.acmicpc.net/problem/2228)|v/v|
+|[2758](https://www.acmicpc.net/problem/2758)|v/v|
+|[17485](https://www.acmicpc.net/problem/17485)|v/v|
+|[15724](https://www.acmicpc.net/problem/15724)|v/v|
+|[2073](https://www.acmicpc.net/problem/2073)|v/v|
+|[18427](https://www.acmicpc.net/problem/18427)|v/v|
+|[11049](https://www.acmicpc.net/problem/11049)|v/v|
+|[14728](https://www.acmicpc.net/problem/14728)|v/v|
+|[17845](https://www.acmicpc.net/problem/17845)|v/v|
+|[14226](https://www.acmicpc.net/problem/14226)|v/v|
+|[5582](https://www.acmicpc.net/problem/5582)|v/v|
+|[2229](https://www.acmicpc.net/problem/2229)|v/v|
+|[14925](https://www.acmicpc.net/problem/14925)|v/v|
+
 ## 동적 계획법
 
 - 전체 문제를 작은 문제로 단순화한 다음 점화식으로 만들어 재귀적인 구조로 활용해서 전체 문제를 해결하는 방식이다.
