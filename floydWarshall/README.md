@@ -3,9 +3,14 @@
 |problem|solved(python/c++)|
 |---|---|
 |[2610](https://www.acmicpc.net/problem/2610)|v/v|
+|[21278](https://www.acmicpc.net/problem/21278)|v/v|
 |[1507](https://www.acmicpc.net/problem/1507)|v/o|
 |[1956](https://www.acmicpc.net/problem/1956)|v/o|
 |[10159](https://www.acmicpc.net/problem/10159)|v/o|
+|[11404](https://www.acmicpc.net/problem/11404)|o/o|
+|[13424](https://www.acmicpc.net/problem/13424)|o/o|
+|[1613](https://www.acmicpc.net/problem/1613)|o/o|
+|[2458](https://www.acmicpc.net/problem/2458)|o/o|
 
 - 다익스트라 알고리즘은 '한 지점에서 다른 특정 지점까지의 최단 경로'를 구하는 알고리즘이다.
 - 플로이드 워셜 알고리즘은 '모든 지점에서 다른 모든 지점까지의 최단 경로'를 구하는 알고리즘이다.
