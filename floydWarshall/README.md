@@ -3,7 +3,7 @@
 |problem|solved(python/c++)|
 |---|---|
 |[2610](https://www.acmicpc.net/problem/2610)|v/v|
-|[21278](https://www.acmicpc.net/problem/21278)|v/v|
+|[21278](https://www.acmicpc.net/problem/21278)|v/o|
 |[1507](https://www.acmicpc.net/problem/1507)|v/o|
 |[1956](https://www.acmicpc.net/problem/1956)|v/o|
 |[10159](https://www.acmicpc.net/problem/10159)|v/o|
