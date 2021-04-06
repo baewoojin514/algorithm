@@ -8,3 +8,4 @@
 |[더맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|v/o|
 |[메뉴리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|v/o|
 |[방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994)|v/o|
+|[영어끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|v/o|
