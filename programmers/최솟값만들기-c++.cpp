@@ -70,3 +70,37 @@ int solution(vector<int> A, vector<int> B)
     
     return answer;
 }
+
+//최솟값 만들기(programmers)
+//skill.1 - 큰 수일 수록 작은 수와 곱해져야 누적합을 최소값으로 만들 수 있다.
+//skill.2 - A를 오름차순 정렬하고 B를 내림차순 정렬하여 같은 index 곱의 누접합을 구한다.
+
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+int n;
+
+bool cmp(int A, int B){
+    if (A > B) {
+        return true;
+    }
+    return false;
+}
+
+int solution(vector<int> A, vector<int> B)
+{
+    int answer = 0;
+    n = A.size();
+    
+    sort(A.begin(), A.end());
+    sort(B.begin(), B.end(), cmp);
+    
+    for (int i = 0; i < n; i++) {
+        answer += A[i] * B[i];
+    }
+    
+    return answer;
+}
