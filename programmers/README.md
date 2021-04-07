@@ -12,6 +12,7 @@
 |[JadenCase문자열만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|v/o|
 |[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)|v/o|
 |[최솟값만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|v/o|
+|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|v/o|
 
 
 
