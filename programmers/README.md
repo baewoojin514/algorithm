@@ -10,4 +10,9 @@
 |[방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994)|v/o|
 |[영어끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|v/o|
 |[JadenCase문자열만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|v/o|
+|[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)|v/o|
+|[최솟값만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|v/o|
+
+
+
 
