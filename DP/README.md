@@ -16,7 +16,7 @@
 |[2758](https://www.acmicpc.net/problem/2758)|v/v|
 |[17485](https://www.acmicpc.net/problem/17485)|v/v|
 |[15724](https://www.acmicpc.net/problem/15724)|v/v|
-|[2073](https://www.acmicpc.net/problem/2073)|v/v|
+|[2073](https://www.acmicpc.net/problem/2073)|v/o|
 |[18427](https://www.acmicpc.net/problem/18427)|v/v|
 |[11049](https://www.acmicpc.net/problem/11049)|v/v|
 |[14728](https://www.acmicpc.net/problem/14728)|v/v|
