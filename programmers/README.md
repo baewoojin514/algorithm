@@ -15,6 +15,7 @@
 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|v/o|
 |[다음큰숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|v/o|
 |[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|v/o|
+|[2xn타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)|v/o|
 
 
 
