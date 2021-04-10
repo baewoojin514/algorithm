@@ -13,6 +13,7 @@
 |[1937](https://www.acmicpc.net/problem/1937)|v/o|
 |[2631](https://www.acmicpc.net/problem/2631)|o/o|
 |[2228](https://www.acmicpc.net/problem/2228)|v/v|
+|[11726](https://www.acmicpc.net/problem/11726)|v/v|
 |[2758](https://www.acmicpc.net/problem/2758)|v/v|
 |[17485](https://www.acmicpc.net/problem/17485)|v/v|
 |[15724](https://www.acmicpc.net/problem/15724)|v/v|
